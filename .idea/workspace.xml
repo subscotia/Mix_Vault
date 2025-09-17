@@ -49,7 +49,7 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/" />
     <option name="RESET_MODE" value="HARD" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
@@ -81,43 +81,43 @@
     <option name="showLibraryContents" value="true" />
     <option name="sortKey" value="BY_TIME_DESCENDING" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.app.executor": "Run",
-    "Python.assign_master_ids.executor": "Run",
-    "Python.find_key_value.executor": "Run",
-    "Python.find_max_catalog_id.executor": "Run",
-    "Python.format_json.executor": "Run",
-    "Python.list_unique_families.executor": "Run",
-    "Python.list_unique_tags.executor": "Run",
-    "Python.list_unique_types.executor": "Run",
-    "Python.list_unique_values_REFACT.executor": "Run",
-    "Python.merge_list_values.executor": "Run",
-    "Python.merge_master_vaults.executor": "Run",
-    "Python.remove_value_from_list_field.executor": "Run",
-    "Python.replace_any_tag.executor": "Run",
-    "Python.replace_family_labels.executor": "Run",
-    "Python.reset_ids.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Shell Script.Tailwind Watcher.executor": "Run",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "F:/Studio/Admin Ops/Operations/git/vault_project",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "ts.external.directory.path": "C:\\Users\\drewp\\AppData\\Local\\Programs\\PyCharm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.assign_master_ids.executor&quot;: &quot;Run&quot;,
+    &quot;Python.find_key_value.executor&quot;: &quot;Run&quot;,
+    &quot;Python.find_max_catalog_id.executor&quot;: &quot;Run&quot;,
+    &quot;Python.format_json.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_unique_families.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_unique_tags.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_unique_types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_unique_values_REFACT.executor&quot;: &quot;Run&quot;,
+    &quot;Python.merge_list_values.executor&quot;: &quot;Run&quot;,
+    &quot;Python.merge_master_vaults.executor&quot;: &quot;Run&quot;,
+    &quot;Python.remove_value_from_list_field.executor&quot;: &quot;Run&quot;,
+    &quot;Python.replace_any_tag.executor&quot;: &quot;Run&quot;,
+    &quot;Python.replace_family_labels.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reset_ids.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Shell Script.Tailwind Watcher.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Studio/Admin Ops/Operations/git/vault_project&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\drewp\\AppData\\Local\\Programs\\PyCharm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Studio\Admin Ops\Operations\git\vault_project\html" />
@@ -256,8 +256,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.find_max_catalog_id" />
       <item itemvalue="Python.app" />
+      <item itemvalue="Python.find_max_catalog_id" />
       <item itemvalue="Python.list_unique_types" />
       <item itemvalue="Python.merge_master_vaults" />
       <item itemvalue="Python.reset_ids" />
