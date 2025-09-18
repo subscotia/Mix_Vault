@@ -1,6 +1,5 @@
 Subscotia Sound Vault Project
 Project Lead: Drew Campbell (Subscotia Sound)
-Production Assistant: Google Gemini 2.5 Pro (AI)
 
 1. Project Overview
 The Subscotia Sound Vault is a comprehensive, custom-built database designed to catalog every audio plugin, virtual instrument, and utility owned by the studio. The project's primary goal is to create a powerful, searchable, and efficient system for managing the studio's extensive digital toolbox, streamlining the creative workflow during composition, mixing, and mastering.
@@ -57,3 +56,4 @@ Modular Families: The families field uses modular, single-purpose tags (e.g., ["
 Primary type: Each entry has a primary type of "instrument", "container", "fx", "utility" or "expansion.
 
 For a complete list of all conventions, please refer to the VAULT_GUIDE.md file.
+
